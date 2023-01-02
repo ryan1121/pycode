@@ -8,3 +8,6 @@ This is a repository to store python learning code.
   1. 脸书 (https://www.facebook.com/pythonchinese)
   2. Tiktok (https://www.tiktok.com/@wubianz)
   3. 个人博客(https://yiqilearn.wordpress.com/) 
+
+
+学习代码在这 https://github.com/ryan1121/pycode/tree/master
